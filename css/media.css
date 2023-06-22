@@ -1,0 +1,107 @@
+/****************************START MEDIA QUERY ************************************************************** */
+
+@media screen and (max-width:1150px){
+    .OurServices .services .ui , .app , .product{
+        width: 50%;
+    }
+    .pics img{
+        width: 45%;
+        margin: 10px;
+    }
+    .client{
+        width: 100%;
+    }
+    .blogs{
+        width: 60%;
+        display: block;
+        margin-left: 17%;
+        margin-bottom: 20px;
+    }
+    .forms .n-e input{
+        width: 100%;
+    }
+}
+
+
+
+@media screen and (max-width:850px){
+    .home{
+        width: 100%;
+        background-size: 100% 100%;
+    }
+    .nav i {
+        visibility: visible;
+    }
+    .nav ul li{
+        width: 100%;
+        background-color: #333333;
+        padding: 20px;
+        text-align: center;
+        z-index: 999;
+    }
+    .nav ul{
+        display: none;
+        margin-top: 20px;
+
+    }
+    .nav ul  a{
+        font-size: 24px;
+    }
+    .container2 .cv {
+        width: 100%;
+        display: block;
+    }
+    .personal-info {
+        width : 100%;
+    }
+    .bag .image{
+        width: 100%;
+        display: block;
+    }
+    .OurServices .services .ui , .app , .product{
+        width: 50%;
+    }
+    .pics img{
+        width: 45%;
+        margin: 10px;
+    }
+    .client{
+        width: 100%;
+    }
+
+    .client img{
+        width: 20%;
+        display: block;
+        
+    }
+    .client{
+        width: 100%;
+        text-align: center;
+    }
+    .info .sec{
+        width: 100%;
+        margin: 20px;
+    }
+
+
+}
+@media screen and (max-width:600px){
+    .OurServices .services .ui , .app , .product{
+        width: 100%;
+    }
+    .pics img{
+        width: 100%;
+    }
+    .client img{
+        text-align: center;
+        width: 17%;
+        display: block;
+        left: 30%;
+    }
+    .client{
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/***************************** END MEDIA QUERY******************************************************************************************* */
