@@ -1,11 +1,5 @@
 # Melify Restaurant Website
 
-![Melify Restaurant](https://marwanmagdy72.github.io/Melify/assets/img/logo.png)
-
-This README provides an overview of the Melify Restaurant website, a project created to demonstrate proficiency in HTML, CSS, Bootstrap, and Font Awesome. Below are descriptions of each section:
-
-## Description
-
 The Melify Restaurant website is a fictitious project developed to showcase skills in web development. It features a modern and visually appealing design, highlighting various sections such as Home, Chefs, Gallery, and Contact. Each section serves a specific purpose in providing information and engaging users.
 
 ## Demo
