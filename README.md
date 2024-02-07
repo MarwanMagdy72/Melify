@@ -1,6 +1,6 @@
 # Melify Restaurant Website
 
-![Melify Restaurant](https://marwanmagdy72.github.io/Melify/)
+![Melify Restaurant](https://marwanmagdy72.github.io/Melify/assets/img/logo.png)
 
 This README provides an overview of the Melify Restaurant website, a project created to demonstrate proficiency in HTML, CSS, Bootstrap, and Font Awesome. Below are descriptions of each section:
 
@@ -28,7 +28,5 @@ The Melify Restaurant website is built using the following technologies:
 - **CSS**: Utilized for styling the visual presentation of the website.
 - **Bootstrap**: Employed for creating a responsive and mobile-friendly design.
 - **Font Awesome**: Integrated for adding scalable vector icons to enhance the user interface.
-
-
 
 
